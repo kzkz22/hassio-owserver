@@ -61,7 +61,7 @@ LABEL \
   io.hass.arch="${BUILD_ARCH}" \
   io.hass.type="addon" \
   io.hass.version=${BUILD_VERSION} \
-  maintainer="Łukasz Rybak <lukasz.rybak@gmail.com>" \
-  org.opencontainers.image.authors="Łukasz Rybak <lukasz.rybak@gmail.com>" \
+  maintainer="KZ <kzpgpmail@gmail.com>" \
+  org.opencontainers.image.authors="KZ <kzpgpmail@gmail.com>" \
   org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \
   org.opencontainers.image.documentation="https://github.com/${BUILD_REPOSITORY}/blob/master/README.md" 
