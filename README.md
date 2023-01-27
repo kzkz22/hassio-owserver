@@ -8,7 +8,7 @@
 ![armv7][armv7-shield]
 ![i386][i386-shield]
 
-Provides owserver to read 1-Wire devices over DS2480B-based bus master serial device.
+Provides owserver to read 1-Wire devices over DS9490 based USB device.
 
 ## About
 
@@ -35,7 +35,7 @@ Please check the **[documentation](https://github.com/lrybak/hassio-owserver/blo
 ![owhttpd](images/screenshot_owhttpd.jpg)
 
 [version]: https://img.shields.io/badge/version-v0.2.1-blue.svg
-[releases]: https://github.com/lrybak/hassio-owserver/releases
+[releases]: https://github.com/kzkz/hassio-owserver/releases
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
