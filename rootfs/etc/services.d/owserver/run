@@ -3,6 +3,6 @@
 
 if ! pgrep -x "/opt/owfs/bin/owserver" > /dev/null
 then
-    bashio::log.info "Starting owserver..."
-    exec /opt/owfs/bin/owserver -c /etc/owfs.conf
+    bashio::log.info "Starting owserver (USB)..."
+    exec /opt/owfs/bin/owserver -p 4304 -u all
 fi
